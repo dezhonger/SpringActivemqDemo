@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java/com/tiantian/springintejms/listener/ConsumerListener.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/tiantian/springintejms/listener/ConsumerMessageListener.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/tiantian/springintejms/listener/ConsumerSessionAwareMessageListener.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/tiantian/springintejms/listener/DefaultResponseQueueListener.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/tiantian/springintejms/listener/ResponseQueueListener.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/tiantian/springintejms/service/ProducerService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/tiantian/springintejms/service/impl/ConsumerServiceImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/tiantian/springintejms/service/impl/ProducerServiceImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/test/java/com/tiantian/springintejms/test/ProducerConsumerTest.java" charset="GBK" />
+  </component>
+</project>
